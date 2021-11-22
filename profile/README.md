@@ -11,8 +11,8 @@ This is my hometown (photographed by my drone
 I graduated from Sun Yat-sen University\
 ![Alt text](assert/2017中大.png)
 
-Coding makes me look handsome (bushi
+Coding makes me look handsome (bushi\
 ![Alt text](assert/codeandme.jpg)
 
-When i see my todo list
+When i see my todo list\
 ![Alt text](assert/gugugu.jpg)
