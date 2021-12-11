@@ -1,5 +1,7 @@
 # Welcom to Xuyt's Org
-Hi, 你好~ My name is Xu yuteng.\
+Hi, 你好~ 
+<!--My name is Xu yuteng.
+
 This is me
 
 *I can drive my wheelchair like a professional racer.*(XD\
@@ -16,4 +18,5 @@ Coding makes me look handsome (bushi\
 <img src="assert/codeandme.jpg" width=540 height=360 />
 
 When i see my todo list (doge\
+-->
 <img src="assert/gugugu.jpg" width=200 height=150 />
